@@ -1,0 +1,5 @@
+.env
+/server/node_modules/
+/movifrontend/node_modules/
+server/dump.rdb
+dump.rdb
